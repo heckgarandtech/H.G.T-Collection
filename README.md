@@ -19,7 +19,7 @@ IMPORTANTE: Como está in dev, então esperem bugs, furos e ideias ainda em cons
 Mas justamente por isso, quero o feedback de vocês. Sugestões, críticas, elogios...
 
 Como usar?
-Acesse o link do mediafire (https://www.mediafire.com/file/ltazu78te6ycwp2/H.G.T_Collection.rar/file) e baixe o .rar, extraia tudo em uma pasta (Download por exemplo) e execute o arquivo dentro da pasta.
+Acesse o link do mediafire () e baixe o .rar, extraia tudo em uma pasta (Download por exemplo) e execute o arquivo dentro da pasta.
 
 Use o atalho 5 para abrir o diretorio raiz e acessar o conteudo (caso não use as opção de mostrar itens ocultos)
 
